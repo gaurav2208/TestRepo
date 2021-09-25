@@ -6,5 +6,6 @@ namespace WiredBrainCoffee.DataAccess.Model
 {
     class CoffeeShop
     {
+        public string Taste { get; set; }
     }
 }
